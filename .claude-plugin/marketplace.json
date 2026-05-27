@@ -1,0 +1,20 @@
+{
+  "name": "claude-tinker",
+  "owner": {
+    "name": "lainfox"
+  },
+  "metadata": {
+    "description": "Custom Claude Code plugins by lainfox"
+  },
+  "plugins": [
+    {
+      "name": "magi",
+      "source": "./plugins/magi",
+      "description": "MAGI System: independent AI units deliberate on your question and produce a synthesized verdict",
+      "version": "1.0.0",
+      "author": {
+        "name": "lainfox"
+      }
+    }
+  ]
+}

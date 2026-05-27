@@ -1,0 +1,11 @@
+{
+  "name": "magi",
+  "description": "MAGI System: independent AI units deliberate on your question and produce a synthesized verdict",
+  "version": "1.0.0",
+  "author": {
+    "name": "lainfox"
+  },
+  "homepage": "https://github.com/lainfox/claude-tinker",
+  "repository": "https://github.com/lainfox/claude-tinker",
+  "license": "MIT"
+}
